@@ -1,0 +1,53 @@
+h4, h5, h6,
+h1, h2, h3 {margin: 0;}
+ul, ol {margin: 0;}
+p {margin: 0;}
+html, body{
+  font-family: 'Work Sans', sans-serif;
+   font-size: 100%;
+   background:#fff; 
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  transition: 0.5s all;
+  -webkit-transition: 0.5s all;
+  -moz-transition: 0.5s all;
+  -o-transition: 0.5s all;
+  text-decoration:none;
+}
+
+.header-main {
+    background:#fff;
+    padding: 1em 2em;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.15);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+}
+
+.search-box {
+    float: left;
+    width:100%;
+    margin-top: 0.5em;
+    position: relative;
+    z-index: 1;
+    display: inline-block;
+    border:2px solid rgb(197, 197, 197);
+}
+.search-box input[type="text"] {
+    outline: none;
+    background: #fff;
+    width: 86%;
+    margin: 0;
+    z-index: 10;
+    font-size: 0.9em;
+    color: #7A7B78;
+    padding: 0.5em 0.5em;
+    border: none;
+    -webkit-appearance: none;
+    display: inline-block;
+}

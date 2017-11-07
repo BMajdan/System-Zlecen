@@ -1,0 +1,79 @@
+.requir{
+	color: red;
+	font-weight: bolder;
+}
+
+.getAddress{
+	cursor: pointer;
+}
+
+textarea {
+    resize: none;
+}
+
+.neworderleft input{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	margin-bottom: 30px;
+}
+
+.neworderleft textarea{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	margin-bottom: 30px;
+}
+
+#address{
+	margin-top: 30px;
+}
+
+.neworderright input{
+	width: 30%;
+	margin: 0;
+	padding: 0;
+	margin-bottom: 30px;
+}
+
+.neworderright{
+	text-align: center;
+}
+
+#telephone{
+	margin-top: 30px;
+}
+
+.neworderright p{
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+
+.neworderleft p{
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+
+.neworderright select{
+	width: 30%;
+	margin: 0;
+	padding: 0;
+	margin-bottom: 30px;
+}
+
+.buttonss{
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+#changeNumber{
+	cursor: pointer;
+}
+
+#orderStatus, #workerSelect{
+	width: 100%;
+}
+
+form{
+	margin-top: 40px;
+}

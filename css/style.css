@@ -1,0 +1,221 @@
+#loginDate{
+	margin-left: 60px;
+}
+
+.yellow{
+	color: orange;
+	font-weight: bold;
+}
+
+.buttons{
+	padding: 5px !important;
+	border: 1px solid black !important;
+	background: #DEDEDE !important;
+	cursor: pointer !important;
+}
+
+#searchButton{
+	cursor: pointer;
+}
+
+.black{
+	color: black;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.orange{
+	color: #FC8213;
+	font-weight: bold;
+	font-style: normal;
+	font-size: 20px;
+}
+
+.green{
+	color: green;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.red{
+	color: red;
+	font-weight: bold;
+	font-style: normal;
+}
+
+#loginName{
+	display: inline-block;
+}
+
+#logout{
+	display: inline-block;
+	float: right;
+}
+
+#badNumber{
+	margin-left: 10px;
+}
+
+#badNumber span{
+	cursor: pointer;
+	margin-left: 15px;
+}
+
+#goodNumber{
+	margin-left: 10px;
+}
+
+#goodNumber span{
+	cursor: pointer;
+	margin-left: 15px;
+}
+
+#ifNumberResult{
+	margin-top: 20px;
+}
+
+#ifAdvResult{
+	margin-top: 20px;
+}
+
+#searchNumber{
+	width: 100%;
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+#searchNumber td{
+	border: 2px solid black;
+	font-size: 80%;
+	padding: 5px;
+}
+
+#searchForm p{
+	display: inline-block;
+	width: 160px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+
+#searchAdvNumber{
+	width: 100%;
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+#searchAdvNumber td{
+	border: 2px solid black;
+	font-size: 80%;
+	padding: 5px;
+}
+
+#searchAdvForm p{
+	display: inline-block;
+	width: 160px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+
+span#setting{
+	display: inline-block;
+	width: 60px;
+	margin-bottom: 15px;
+	font-weight: bolder;
+}
+
+p#searchButton{
+	margin-top: 10px;
+	font-weight: bolder;
+}
+
+#lastWork{
+	width: 100%;
+	text-align: center;
+}
+
+#lastWork td{
+	border: 2px solid black;
+	font-size: 80%;
+	padding: 5px;
+}
+
+#getWorkers{
+	width: 100%;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 15px;
+}
+
+#getWorkers td{
+	border: 2px solid black;
+	font-size: 80%;
+	padding: 5px;
+}
+
+#getTwOrders{
+	width: 100%;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 15px;
+}
+
+#getTwOrders td{
+	border: 2px solid black;
+	font-size: 80%;
+	padding: 5px;
+}
+
+#getInfoNumber{
+	width: 100%;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 15px;
+}
+
+#getInfoNumber td{
+	border: 2px solid black;
+	font-size: 80%;
+	padding: 5px;
+}
+
+#getAddressInfo{
+	width: 100%;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 15px;
+}
+
+#getAddressInfo td{
+	border: 2px solid black;
+	font-size: 80%;
+	padding: 5px;
+}
+
+#allRepair{
+	margin-right: 70px;
+	font-weight: bolder;
+}
+
+#allInquiry{
+	font-weight: bolder;
+}
+
+#badWorker{
+	margin-left: 10px;
+	font-weight: bolder;
+	font-size: 20px;
+}
+
+#stats span{
+	margin-left: 15px;
+}
+
+#phoneNumber{
+	margin-right: 10px;
+	margin-top: 10px;
+}
+
+#changeNumber{
+	margin-left: 15px;
+	margin-right: 10px;
+}
